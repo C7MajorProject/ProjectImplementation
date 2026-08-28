@@ -28,6 +28,7 @@ Vector Indexing & Machine Learning: FAISS, scikit-learn, NumPy, Pandas
 
 Interface & Visualization: Streamlit, Matplotlib
 
+```
 ===================================================================================================
                                       SYSTEM ARCHITECTURE
 ===================================================================================================
@@ -65,9 +66,10 @@ Interface & Visualization: Streamlit, Matplotlib
    ├── Paper Summary
    ├── Key Contributions
    ├── Research Gaps
-   ├── Gap Visualization 
+   ├── Gap Visualization
    └── Download Report (PDF / DOCX)
 
 ===================================================================================================
 [ TOOLS & LIBRARIES ]: Python | PyTorch | Transformers | scikit-learn | Streamlit | FAISS | Pandas
 ===================================================================================================
+```
