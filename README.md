@@ -65,7 +65,7 @@ Interface & Visualization: Streamlit, Matplotlib
    ├── Paper Summary
    ├── Key Contributions
    ├── Research Gaps
-   ├── Gap Visualization
+   ├── Gap Visualization 
    └── Download Report (PDF / DOCX)
 
 ===================================================================================================
